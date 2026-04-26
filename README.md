@@ -14,7 +14,8 @@ I conducted the benchmark on a dataset of one million records to determine the m
 
 The final results and the designed report can be viewed at the following link:
 
-**[Link to Interactive Angular Report](stackblitz.com/edit/stackblitz-starters-ctz5i9qm?file=package.json)**
+*Link to Interactive Angular Report
+stackblitz.com/edit/stackblitz-starters-ctz5i9qm?file=package.json
 
 ---
 
