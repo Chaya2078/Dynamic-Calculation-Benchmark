@@ -8,10 +8,10 @@ I developed this project to evaluate the performance of dynamic formula calculat
 
 ---
 
-### 📊 Interactive Visual Report (Angular)
+###  Interactive Visual Report (Angular)
 The final results and the designed report can be viewed at the following link:
 
-👉 **[View Interactive Angular Report](https://stackblitz.com/edit/stackblitz-starters-ctz5i9qm?file=package.json)**
+ **[View Interactive Angular Report](https://stackblitz.com/edit/stackblitz-starters-ctz5i9qm?file=package.json)**
 
 ---
 
@@ -19,7 +19,7 @@ The final results and the designed report can be viewed at the following link:
 
 | Calculation Method | Average Time (Seconds) | Performance Status |
 | :--- | :--- | :--- |
-| **SQL Native** | **1.906** | 🚀 **Fastest** |
+| **SQL Native** | **1.906** |  **Fastest** |
 | **C# (.NET 8)** | 3.029 | Stable and Fast |
 | **Python (Eval)** | 22.78 | Significantly Slower |
 
